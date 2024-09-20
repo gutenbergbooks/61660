@@ -1,23 +1,8 @@
-
-Note: Project Gutenberg also has an HTML version of this
-      file which includes the original illustration.
-      See 61660-h.htm or 61660-h.zip:
-      (http://www.gutenberg.org/files/61660/61660-h/61660-h.htm)
-      or
-      (http://www.gutenberg.org/files/61660/61660-h.zip)
-
-
-      Images of the original pages are available through
-      Internet Archive. See
-      https://archive.org/details/earlyvoyagestrav00dallrich
-
-
 Transcriber’s note:
 
       Text enclosed by underscores is in italics (_italics_).
 
       Text enclosed by equal signs is in bold face (=bold=).
-
 
 
 
@@ -545,7 +530,7 @@ Thomas Dallam’s MS.:—
     home of purpose for mee to delliver her Majestie’s letter and
     present, and to kisse his hand, at wᶜʰ tyme I apoynted to
     attend upon me xii gentlemen on horsebacke, vested in cloth of
-    gould and silver, a gentlem̅ usher, ii pages in white damaske,
+    gould and silver, a gentlem̄ usher, ii pages in white damaske,
     20 menn in livery gownes, xii merchaunts, desently apparelled
     merchaunt-like in blacke, and my sealf attired as richly as I
     might.
@@ -581,12 +566,12 @@ Thomas Dallam’s MS.:—
     my Ambassadge unto him, I first salluted him in her Highnes’
     name; secondly, declared to him the good intelligence betweene
     her Highnes and his father,[1] and of the bennefitt therof
-    to both their dom̅nions and subieckts; thirdly, I ymformed
+    to both their dom̄nions and subieckts; thirdly, I ymformed
     him of Her Majesty’s pleasure for my Confirmation in former
     charge of Ambassador, requiringe therein not only his Highnes’
     consent, but princely favour in all future occations; and,
-    lastly, recom̅ended unto him the affayres of her merchaunts
-    traffickinge in his dom̅nions, wher unto hee him sealf
+    lastly, recom̄ended unto him the affayres of her merchaunts
+    traffickinge in his dom̄nions, wher unto hee him sealf
     answered as afore, sainge he did much reioyce at Her Majesty’s
     frindshipp, and prayed God that shee might allwayes have the
     victory over her enemyes as hether unto. Lastly, he tould me
@@ -705,7 +690,7 @@ the concluding lines of which would seem rather to refer to his father
 than himself, for we have no record of his having travelled in distant
 lands. It runs as follows:—
 
-    “Hic jacet Dᵐⁿᵘˢ Robertas Dallam Instrumenti Pneumatici (quod
+    “Hic jacet Dᵐⁿᵘˢ RobertUs Dallam Instrumenti Pneumatici (quod
     vulgo organum nuncupant) peritissimus artifex filius Thomæ
     Dallum de Dallum in comitat: Lancastriæ mortuus est die Maii
     ultimo
@@ -952,7 +937,7 @@ Company privileges which established it, for the ensuing century and a
 half of its existence, on an unapproachable foundation.
 
 John Covel was born at Horningsheath, in Suffolk, in 1638, and educated
-at Bury St. Edmunds and Christs College, Cambridge, in the hall of which
+at Bury St. Edmunds and Christ’s College, Cambridge, in the hall of which
 his portrait, by Valentine Ritz, is still to be seen. He studied medicine
 in early life with a view to being a physician, which will account for
 his intimate knowledge of botany and drugs; but eventually, being elected
@@ -1032,7 +1017,7 @@ had maligned as Prince, would receive him. In reply to these anxieties,
 King William sent a curt answer, stating “that he could distinguish
 between Dr. Covel and the Vice-Chancellor of the University”.
 
-Dr. Covel, was not fortunate with his voluminous writings; he got into
+Dr. Covel was not fortunate with his voluminous writings; he got into
 another scrape with the Court in a book entitled _The Interpreter of
 Words and Terms_; it was ordered to be destroyed, being, as it was
 supposed, “in some points very derogatory to the supreme power of this
@@ -1457,7 +1442,7 @@ short warninge, havinge no frend to advise me in any thinge.
     Item for nutmuges                                         0   1   0
     Item for gloves                                           0   3   0
     Item for knives                                           0   5   0
-    Item for 30ˡᵇ of tin in bars                              0  18   0
+    Item for 30ˡⁱ of tin in bars                              0  18   0
     Item for a grose of Spownes (spoons)                      0   9   0
     Item for otemeale                                         0   0  10
     Item for carreing my chiste to Blacke wale                0   1   6
@@ -1820,7 +1805,7 @@ still near the Coste or shore of Africa. 20 leages from Argere Thare
 is a faire towne caled Teddell,[44] but we sailed afar of from it. We
 also passed by a litle towne calede Budgge,[45] under a hudge mountaine,
 risinge hie, and picked lyke a suger lofe. Som of our navigateres saide
-that at this place St Augustine did sometime keepe a scoule or exersise.
+that at this place St. Augustine did sometime keepe a scoule or exersise.
 It is 30th leagues from Argere towardes the easte on the same side.
 
 The seventhe of Aprill beinge Easter eve, we saw verrie strainge
@@ -2736,7 +2721,7 @@ the reporte.
 
 Than the Amberall sente a gallie unto us to demande his presente, and
 also to aske whye we did salute him no better. The gallie beinge com
-unto us with his messege, our Mr. answered that the Amberal’s presente
+unto us with his messege our Mr. answered that the Amberal’s presente
 was caked[96] under the hatchis, nether did he know what it was untill
 he came to our imbassador at Constantinople; and for that thare was no
 better salutation, or more shott given to the Amberall, the reason was
@@ -3012,7 +2997,7 @@ divers of my mettle pipes weare brused and broken.
 
 When our Imbassader, Mr. Wyllyam Aldridge, and other jentlmen, se in what
 case it was in, theye weare all amayzed, and sayde that it was not worthe
-ii_d_. My answeare unto our Imbassader and to Mr. Aldridge, at this
+ii_d._ My answeare unto our Imbassader and to Mr. Aldridge, at this
 time I will omitt; but when Mr. Alderidge harde what I sayede, he tould
 me that yf I did make it perfitt he would give me, of his owne purss,
 15_li._, so aboute my worke I wente.
@@ -4220,7 +4205,7 @@ second dose of warme beer, and so came up to the Round-house again; and
 after somewhat a longer pause then before, I fell to my former exercise.
 This I repeated several times, till at last, when I cam down to the
 _wast_[183] of the ship, and took a turn or two there, I found my stomack
-begin to settle. I immediately drank a spoonful of _Purle[184] royals_
+begin to settle. I immediately drank a spoonful of _Purle[184] royall_
 (as they call it), that is, _sack and wormwood_, and a little while after
 I took as much more. Thus for a while supping not above one spoonfull
 at a time (sometimes of old Hock, sometimes of sack, with wormwood), I
@@ -4706,7 +4691,7 @@ sower’d honey and oil, which give it a brackish taste, yet it is not
 unpleasant whilst it is new. They bake it flat, with a rising in the
 middle like a coppled[198] cake. Every ship stored themselves from hence
 with what they wanted of sea provisions. Our Capt. caried a net on shoar,
-which by all our Seamen was called a _Sain_ (I suppose from σαγλιὸν,
+which by all our Seamen was called a _Sain_ (I suppose from σαγλιόν,
 _Sagena_, Math. xiii, 47). It was a sort of drag net. Having obtained
 leave, we turned it twice or thrice in the sea, but we catch’t few fish,
 and those very small ones. They wer _Mullet_, _Barboni_, and our common
@@ -5093,7 +5078,7 @@ to their heels. But our gentlemen had the start of them, and so, God
 be thanked, these all escaped, though very narrowly, all coming down
 without their Armes, most without their Hats, some with but a piece of
 a Shoe, their feet and leggs being battered and torne, and their bodyes
-bruised with rushing through the Shrubs and jumping down præcipices,
+bruised with rushing through the Shrubs and jumping down prœcipices,
 for they came right forward, thinking the shortest way was best. Four
 of the poor Seamen were taken—two of the _Mary and Martha’s_ men, one
 of the _Levant Merchant_, and a fourth of the _Tho. and Francis_, whome
@@ -5574,7 +5559,7 @@ notes, which he himself only could understand.]
 
     Dated in the garrison’d City of Salonica.
 
-_July 30th._ Γεράσιμος μητροπολότης Τουρνόβου for 20 purses of money
+_July 30th._ Γεράσιμος μητροπολίτης Τουρνόβου for 20 purses of money
 bought the patriarch’s place. Dionysius, Drista, etc., fled to the French
 Embassadores.
 
@@ -5740,7 +5725,7 @@ At daybreak the Patriarch washt the disciples’ feet. A great waxe candle
 was brought before him (instead of a mace). He came to his throne in
 the ordinary habit. Every Greek (that makes it right) makes his crosse
 leisurely, ἐν τῷ ὀνὸμάτα τοῦ πάτρος[242] ✠ (the top of the brest), καὶ
-τοῦ ὓιου ✠ (the middle), καὶ τοῦ ἁγίου πνέυ ✠ (on the right above the
+τοῦ ὓιου ✠ (the middle), καὶ τοῦ ἁγίου πνέυ (✠ on the right above the
 pap), ματος (on the left above the pap). All the Metropolites do it very
 gravely. There were, 1st (next to the preacher’s throne), Heraclea; 2d,
 Cyzikos; 3d, Νικομέδια; 4th, Chalcedon; 5th, Philippopoli, etc., etc. The
@@ -5754,10 +5739,10 @@ wretch (without a cape, etc.) to represent Judas; then a good stretch
 after followed all the rest, and seated themselves before the Patriarch,
 who was at the other end. Then the Patriarch vested himself in his robes,
 στοιχάριον,[243] with a hole on top like a surplice with sleeves, body
-to the ankles; sallow green (or yellow green) tuffetay, Ὡράριον,[244] a
+to the ankles; sallow green (or yellow green) tuffetay, Ωράριον,[244] a
 broidered tippet, ἐπιμανίκιον,[245] embroyder’d sleeves (he crosses and
 kisses every vestment, and he was putting on this and forgot, then pul’d
-it of), ἐπιτρακχὴλιον,[246] embroyder’d kerchief put about his neck,
+it of), ἐπιτραχὴλιον,[246] embroyder’d kerchief put about his neck,
 Ζώνη his girdle (alla turkesa), ὑπογονάτιον,[247] a square embroyder’d
 handkerchief (foot and half square), with 4 tassels; it hang’d by his
 right side. Then his 2 deacons help him down (4 staires); he begin with
@@ -5766,10 +5751,10 @@ repeat to every washing, “He began to wash their feet,” etc.; he kneels
 down, and washes the right foot (which only is bare), his 2 deacons
 helping him with bason, Ewers, etc. Whilst the 3d Deacon is in the pulpit
 reading, he strips himself of all his robes (the στοιχάριον, ἐπιμανίκιον,
-ὡράριον, ὑπογονάτιον), but the ἐπιτρακχὴλιον, and another lose vest, half
+ὡράριον, ὑπογονάτιον), but the ἐπιτραχὴλιον, and another lose vest, half
 slew’d[248] to draw the sleeves (with laces), set with 3 bells on each
 side, and two to each corner (likewise when he vested himself he put
-of his monkes hood), τὸ ἀνάνω καμηλαῦχον,[249] and divel’s cap (as the
+of his monkes hood), τὸ ἀπάνω καμηλαῦχον,[249] and divel’s cap (as the
 G. S. cal’d it) τὸ ἔσω καμηλαῦχον, and put on an embroyder’d crown set
 with diamonds and pretious stones, and quarter’d (with 4 glass diamonds
 and perls); upon the top a crosse emerald and sapphire. He puts on a
@@ -6493,7 +6478,7 @@ about; it is seen almost to _Burgas_. Within two mile of _Burgas_ the
 earth alters to a lighter kind of sandy soyl, yet Plowmen were there
 breaking up with 6 yoak of oxen in a plough.
 
-Burgas is a pretty large market town. We passe over a pretty street or
+Burgás is a pretty large market town. We passe over a pretty street or
 two; then came a most stately _Cháne_, having a fair square court and
 large fountain in the middest of it, and cloysters round about; then fine
 apartments able to hold well nigh 1,000 travaylers with their beasts.
@@ -6734,7 +6719,7 @@ it, and the other terrible shock of the Earthquake, nothing of their
 walls or fortifications, or any publick buildings, were harmed in the
 least, neither was one corn of powder fired, though all their magazines
 were then full. There was a poor woman servant after 15 dayes digg’d out
-alive; she had lived in a kitchen all that while, with a little dish-wash
+alive; she had lived in a kitchen all that while, with a little dishwash
 and oatmeal left there by chance. He saw likewise a little child digd
 out hanging at the mother’s brest (who was dead) three whole dayes
 after this sad hap; the child is yet alive. He is a very short man, and
@@ -7372,7 +7357,7 @@ he tosse about at a strange rate, swinging it behind his back, his head
 being between the sticks and his armes. His right arme was alwayes braced
 with a fillet very hard and close above the elbow. There are many of
 these stone balls (or shot) with Iron steales or handles in many places
-here hanged up, at which I have many times wonder’d, the Turkes telling
+here hang’d up, at which I have many times wonder’d, the Turkes telling
 ridiculous fables concerning them. There are two by the great _Bagno_ in
 _Scutary_, and severall hang’d up over severall gates in Stambol with
 Turkish writing ingraved upon them, yet none of them exceeded (if they
@@ -8108,7 +8093,7 @@ it very shallow and broad. It is here fordable all the summer, but in
 winter, by floods from the hills, it overflowes into many outlets, which
 are dry in summer, as you may perceive the pricked[368] river next to
 _Dimirdesh_.[369] The fish are few and unwholesome. I saw a carp taken
-just 33 inches and 7/10 long. I saw one at Stambol once somewhat above
+just 33 inches and ⁷/₁₀ long. I saw one at Stambol once somewhat above
 36 inches, and my Ld. Harvey assured me he had one at his audience in
 Salonica about 40 inches long.
 
@@ -8913,7 +8898,7 @@ companye along to _Caresteran_. There I left them with onely my man with
 me (wee were well arm’d) to go see _Misine_.[435] At Chiorlúh I met my
 Ld. and all the Company again.
 
-_Sept 24th._ Seeing the Sea from Chiorlúh, I thought it not much out of
+_Sept. 24th._ Seeing the Sea from Chiorlúh, I thought it not much out of
 my way to goe to it, and thence to Selibria alongst the sea shore. I
 could perswade no man to accompany me for fear of Thieves, and a calf
 with a white face disheartened them all. Away went my man and I. There
@@ -9020,7 +9005,7 @@ Chios, and what else lyes in my way before I leave the countrey, though
 I shall make Inscriptions and such knackes but onely my passe time. Here
 are every year abundance of Whiflers[442] in those scraps of learning.
 Last year were here one Mr. Wheeler, a pretty ingenious youth, our
-countryman, and one Mr. Le Spon,[443] a Frenchman, who certainely have
+countryman, and one Mr. Le Spòn,[443] a Frenchman, who certainely have
 made the best collection in the world, and intends to print them when
 he comes home. He hath gathered up and down at least 10,000 that never
 yet saw light in Greek or any other author. I have a very great intimacy
@@ -9441,7 +9426,7 @@ Venice until the downfall of the Republic in 1797.
 
 [57] Pratique.
 
-[58] The γυναιλεῖον, or woman’s quarter in a Greek church.
+[58] The γυναικεῖον, or woman’s quarter in a Greek church.
 
 [59] _Vide_ note 3, p. 17.
 
@@ -9885,7 +9870,7 @@ of Maryland, which his father, the first Lord Baltimore, had projected.
 
 [211] _Meteor._, c. 7, 4.
 
-[212] These lights are known now by the Greeks as τελώνια and by the
+[212] These lights are known now by the Greeks as τελώνια, and by the
 Italians as “fire of St. Elmo”.
 
 [213] _Tal._, c. 1, fig. 4.
@@ -9973,7 +9958,7 @@ _temp._ Charles II. (_Archæologia_, xi, 183.)
 
 [245] ἐπιμανίκιον = a maniple.
 
-[246] ἐπιτρακχὴλιον is also a stole.
+[246] ἐπιτραχὴλιον is also a stole.
 
 [247] ὑπογονάτιον is a part of a priest’s dress in the form of a diamond,
 which hangs below the knee.
@@ -10102,7 +10087,7 @@ Sokol, where he was born, retained the Grand Vizierate for fifteen years,
 under three Sultans, and did much for the then rapidly-decaying Ottoman
 power.
 
-[304] Or, rather, Baba, now called Eski-Baba. Ortelius calls it
+[304] Or, rather, Baba, now called Eskì-Baba. Ortelius calls it
 _Sikibaba_.
 
 [305] Modern name the same. Ortelius calls it _Capsia_.
@@ -10174,7 +10159,7 @@ with straight sleeves, buckled by a girdle.
     “Bring me the bells, the rattle bring,
     And bring the hobby I bestrode.”
 
-    (Shentone, _Ode to Memory_.)
+    (Shenstone, _Ode to Memory_.)
 
 [324] The origin of the diminutive Sir Tom Thumb is, like that of the
 Teutonic myth, _Jack the Giant-killer_, to be found in the earliest
@@ -10704,7 +10689,7 @@ INDEX.
 
   =Baltimore=, Lord, his daughter in a convent at Malaga, 111
 
-  =Banquet= in honour of the audience, description of, 261-262;
+  =Banquet= in honour of the audience description of, 261-262;
     no knives and forks at, 261;
     news discussed at, 263;
     disorder in outer room during, 264
@@ -11273,7 +11258,7 @@ INDEX.
   =Galata=, Dervish Mustapha at, 168;
     music of the dervishes at, 169;
     Tekies, or monasteries at, 169;
-    Arzeh Mahmet Effendi buried at, 169;
+    Arzéh Mahmet Effendi buried at, 169;
     Ismèl Effendi buried at, 169;
     the vaults under Sta. Sophia at, visited by Covel, 170
 
@@ -12226,7 +12211,7 @@ INDEX.
     monastery at, visited by merchants, 25;
     games at, 25-26;
     miserable weather at, 126;
-    many earthquakes at, 126
+    many earthquakes at, 126;
 
   =Zeitoun= (see =Lamia=)
 
@@ -12313,4 +12298,3 @@ Index entry Janizaries, “pilan” changed to “pilau” (feed on bread and
 pilau)
 
 Index entry Kinnekleh, “Ginekly” changed to “Sinekly” (see =Sinekly=)
-
